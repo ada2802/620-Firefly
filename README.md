@@ -1,4 +1,4 @@
-# 620-Firefly
+# Group 3: 620-Firefly
 Amazon Product CO-Purchasing Network Analysis
 
 Members: Chunhui Zhu, John Wong and Chunmei Zhu
