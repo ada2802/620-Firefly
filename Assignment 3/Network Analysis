@@ -1,0 +1,12 @@
+Week 3 - Network Analysis: Graph Theory, Definitions [2/12 - 2/18]
+
+Graph Visualization
+
+This week's assignment is to:
+
+Load a graph of your choosing from a text file or other source into a graph database or NetworkX.  If you take a large network dataset from the web (such as fromhttps://snap.stanford.edu/data/), please feel free at this point to load just a small subset of the nodes and edges.
+Create basic analysis on the graph, including the graph’s diameter, and at least one other metric of your choosing.  You may either code the functions by hand (to build your intuition and insight), or use functions in an existing package. 
+Use a visualization tool of your choice ( NetworkX, Neo4j, Gephi, etc.) to display information.
+Please record a short video (~ 5 minutes), and submit a link to the video in advance of our meet-up.
+You may work in a small group on this project.  Parts one and two should be posted to GitHub and submitted in your assignment link. Please include a short video with a presentation of your work at the top of the notebook.
+
